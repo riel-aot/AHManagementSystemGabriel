@@ -1,4 +1,4 @@
-Facility 741
-Facility B
-Facility C
-Test
+Ambulance
+Admissions
+Canteen
+EmergencyCovid Care
